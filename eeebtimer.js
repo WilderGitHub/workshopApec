@@ -17,8 +17,8 @@ var ringer = {
   },
   r_count: 2,
   r_spacing: 40, // px
-  r_size: 200, // px
-  r_thickness: 30, // px
+  r_size: 180, // px
+  r_thickness: 25, // px
   update_interval: 11, // ms
 
   init: function () {
@@ -124,3 +124,4 @@ var ringer = {
 };
 
 ringer.init();
+
